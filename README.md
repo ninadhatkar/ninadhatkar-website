@@ -38,7 +38,7 @@ Also be sure to check out other [Free & Open Source Gatsby Themes](https://theme
 
 Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/LekoArts/gatsby-starter-portfolio-cara)
+[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/ninadhatkar/ninadhatkar-website)
 
 ## 🚀 Getting Started
 
